@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+		.link {
+		text-decoration: none;
+		}
+		
+		.link:hover {
+		text-decoration: underline;
+		}
+
+		.reg {
+		text-align: center;
+
+		margin-top: 100px;
+		margin-left: 500px;
+		width: 30%;
+
+		padding-top: 30px;
+		padding-bottom: 30px;
+		padding-left: 10px;
+		padding-right: 10px;
+
+		background-color: #49E949;
+		}
+
+		.field {
+		margin: 5px;
+		font-weight: bold;
+		}
+		
+		

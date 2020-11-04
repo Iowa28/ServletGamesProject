@@ -1,0 +1,7 @@
+.block {
+	margin-left: 100px;
+	box-sizing: border-box;
+	width: 1250px;
+	height: 700px;
+	background-color: #ddd;
+}
